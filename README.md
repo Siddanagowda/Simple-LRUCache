@@ -1,5 +1,7 @@
 # LRU Cache Implementation
 
+This is a straightforward implementation of an LRU (Least Recently Used) cache, designed to simplify both its development and understanding. By following clear and concise steps, it effectively demonstrates how the LRU cache operates, making it easier to grasp the underlying concepts and functionality.
+
 This repository contains a C++ implementation of an LRU (Least Recently Used) Cache. The LRU Cache is a data structure that stores a limited number of key-value pairs and evicts the least recently used items when the cache reaches its capacity.
 
 ## Code Explanation
